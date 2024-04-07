@@ -1,3 +1,17 @@
+# to run froentend code :-
+cd chitchatfront
+npm install
+npm start
+
+# to run backend code :-
+cd chitchatBack
+npm install
+npm  run dev 
+
+
+# i hope you will like the app open for feedback.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
