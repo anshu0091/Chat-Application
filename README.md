@@ -1,3 +1,20 @@
+# to run froentend code :-
+cd chitchatfront
+npm install
+npm start
+
+# to run backend code :-
+cd chitchatBack
+npm install
+npm  run dev 
+
+
+# i hope you will like the app open for feedback.
+
+
+
+
+
 # Web-Based Chat Application Requirements
 
 ## Use Cases:
